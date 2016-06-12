@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/myTextview1"
+        android:layout_width="244px"
+        android:layout_height="76px"
+        android:layout_x="18px"
+        android:layout_y="105px"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/myTextView2"
+        android:layout_width="244px"
+        android:layout_height="wrap_content"
+        android:layout_x="18px"
+        android:layout_y="20px"
+        android:text="请输入"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/myEditText1"
+        android:layout_width="262px"
+        android:layout_height="wrap_content"
+        android:layout_x="14px"
+        android:layout_y="41px"
+        android:textSize="18sp" />
+</AbsoluteLayout>

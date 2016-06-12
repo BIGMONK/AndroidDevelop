@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioWorkspace\AndroidDevelop\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\AndroidStudioWorkspace\AndroidDevelop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_b0cc75f45f167ce78e241c41b7e3a84ccafdd36f\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioWorkspace\AndroidDevelop\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\AndroidStudioWorkspace\AndroidDevelop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_86743ab97a347966e2d0d6b34286e9386d23db9d\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioWorkspace\AndroidDevelop\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8ea70a95876a30549fe62feb3c66078d9e8a41ad">
+        <dex dex="D:\AndroidStudioWorkspace\AndroidDevelop\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_949e1cf3c9c1fca034714ebb466d5c5db34c8f36\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\AndroidStudioWorkspace\AndroidDevelop\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_86f0d33844a9e1b63069385967477c948b8d5295\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioWorkspace\AndroidDevelop\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\AndroidStudioWorkspace\AndroidDevelop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_18769e1f23fe1801eb5d6b48846a76cf1858efae\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioWorkspace\AndroidDevelop\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\AndroidStudioWorkspace\AndroidDevelop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_1d56217ed0254bb22e8ccac883eb948179fc8312\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioWorkspace\AndroidDevelop\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aa320c89122756a045c11c4466edfcef186b9df9">
+        <dex dex="D:\AndroidStudioWorkspace\AndroidDevelop\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3a0c9853a1d9b6190d443bd8c4c72fc119661a33\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioWorkspace\AndroidDevelop\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\AndroidStudioWorkspace\AndroidDevelop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_7889f96f3d1a293e09c65d5742675f84b59a76f6\classes.dex" />
+    </item>
+
+</items>

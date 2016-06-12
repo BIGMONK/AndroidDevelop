@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="#ff0000" />
+
+            <Button
+                android:id="@+id/controller"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="controller" />
+
+            <Button
+                android:id="@+id/search"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="search" />
+
+            <Button
+                android:id="@+id/clock"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="clock" />
+
+            <Button
+                android:id="@+id/display"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="时间选择" />
+
+            <Button
+                android:id="@+id/linkify"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="linkify" />
+  <Button
+                android:id="@+id/activitylifecycle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="activitylifecycle" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>
